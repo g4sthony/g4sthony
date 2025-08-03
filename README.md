@@ -1,4 +1,4 @@
-## Hi there, I'm Anthhony 👾
+## Hi there, I'm Anthony 👾
 ## I’m currently on a CyberSec journey 🛡️🕵🏿‍♂️
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/hunta7.png)
 
